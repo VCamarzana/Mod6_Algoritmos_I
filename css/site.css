@@ -1,0 +1,39 @@
+
+body {
+    margin: 3rem;
+    font-size: 1em;
+    text-align: left;
+    width:80%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 18px;
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.result {
+    text-align: right; 
+}
+
+
+#product-list {
+    text-align: center; 
+}
+
+.description {
+    display: inline-flex;
+    width: 75%;
+    text-align: left;
+    background-color: rgb(220, 243, 245);
+    margin-right: 10px;
+}
+
+.product-unit {
+    text-align: right;
+    margin-bottom: 10px;
+    width: 20%;
+}
