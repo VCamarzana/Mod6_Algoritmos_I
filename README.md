@@ -1,2 +1,2 @@
 # Mod6_Algoritmos_I
-JavaScript algorithm practices
+JavaScript algorithm practices.
